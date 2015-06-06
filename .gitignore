@@ -1,5 +1,5 @@
+#Don't include README.md or other things
 *.md
-.gitignore
 
 #don't include man entries
 man/
