@@ -1,0 +1,5 @@
+*.md
+.gitignore
+
+#don't include man entries
+man/
