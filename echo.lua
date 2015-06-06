@@ -5,7 +5,7 @@ if not args[1] then
   str = io.stdin:read()
 else
   for i=1, #args do
-    str = (str..tostring(args[i])
+    str = (str..tostring(args[i]))
   end
 end
 
